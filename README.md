@@ -61,7 +61,7 @@ Keterangan : <br>
 1. Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 
 2. Fungsi **input()** adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br>
-![input](gambar/foto%203.png) <br>
+![input](isi%20foto/foto%203.png) <br>
 Pada gambar diatas, hasil dari inputan tersebut berwarna *putih* <br>
 * Untuk memasukan printah lain seperti *Nama, NIM, Tempat Lahir, Umur, No Telpon,* mengikuti perintah yang sama seperti memasukan *fullname* <br>
 
@@ -81,7 +81,7 @@ Keterangan :
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil source code diatas adalah seperti gambar dibawah ini : <br>
 
-![Output salam](gambar/foto%204.png)
+![Output salam](isi%20foto/foto%204.png)
 * Langkah terakhir menampilkan semua hasil dari inputan diatas. Dengan mengetikan source code berikut : <br>
 ``` python
 print "Let me introduce my self My name is",nama,"but you can call me",panggilan,
