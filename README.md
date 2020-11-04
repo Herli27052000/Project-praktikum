@@ -51,7 +51,7 @@ source code fiatas berfungsi untuk mencetak hasil / output berupa " **Masukan Na
 print(4646)
 ```
 <br>(Seperti gambar berikut ini <br>)
-![Output fungsi print](gambar/foto%202.png) <br>
+![Output fungsi print](isi%20foto/foto%202.png) <br>
 * Untuk source code berikutnya adalah inputan atau membuat variable. Seperti syntax dibawah ini:
 
 ``` python
